@@ -1,0 +1,38 @@
+{
+  "summary": "2 of 4 planned shots have a continuous usable take long enough.",
+  "metrics": {
+    "Planned shots": 4,
+    "Covered": 2,
+    "Need a pickup": 2
+  },
+  "rows": [
+    {
+      "Planned shot": "Unbox the grinder",
+      "Status": "Covered",
+      "Best clip": "A012",
+      "Usable seconds": 3.7,
+      "Seconds short": 0
+    },
+    {
+      "Planned shot": "Grind dial detail",
+      "Status": "Too short",
+      "Best clip": "A018",
+      "Usable seconds": 2.1,
+      "Seconds short": 0.9
+    },
+    {
+      "Planned shot": "Grounds into basket",
+      "Status": "Covered",
+      "Best clip": "B004",
+      "Usable seconds": 4.3,
+      "Seconds short": 0
+    },
+    {
+      "Planned shot": "First sip reaction",
+      "Status": "Missing",
+      "Best clip": "—",
+      "Usable seconds": 0,
+      "Seconds short": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "shot_list": [
+    {
+      "shot": "Unbox the grinder",
+      "tags": [
+        "grinder",
+        "unboxing"
+      ],
+      "seconds": 2.4
+    },
+    {
+      "shot": "Grind dial detail",
+      "tags": [
+        "grinder",
+        "dial",
+        "macro"
+      ],
+      "seconds": 3
+    },
+    {
+      "shot": "Grounds into basket",
+      "tags": [
+        "grounds",
+        "pour"
+      ],
+      "seconds": 2.2
+    },
+    {
+      "shot": "First sip reaction",
+      "tags": [
+        "sip",
+        "reaction"
+      ],
+      "seconds": 2
+    }
+  ],
+  "footage": [
+    {
+      "id": "A012",
+      "in": 1.2,
+      "out": 4.9,
+      "tags": [
+        "grinder",
+        "unboxing",
+        "wide"
+      ]
+    },
+    {
+      "id": "A018",
+      "in": 0.4,
+      "out": 2.5,
+      "tags": [
+        "dial",
+        "macro",
+        "grinder"
+      ]
+    },
+    {
+      "id": "B004",
+      "in": 4,
+      "out": 8.3,
+      "tags": [
+        "pour",
+        "grounds",
+        "side"
+      ]
+    },
+    {
+      "id": "B008",
+      "in": 0,
+      "out": 2,
+      "tags": [
+        "sip",
+        "detail"
+      ]
+    }
+  ]
+}
