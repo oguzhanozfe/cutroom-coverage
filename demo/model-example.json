@@ -1,0 +1,14 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 4 · Why is the 'First sip reaction' shot marked as Missing and requires 2 seconds of coverage?",
+  "row": 4,
+  "record": {
+    "Planned shot": "First sip reaction",
+    "Status": "Missing",
+    "Best clip": "—",
+    "Usable seconds": 0,
+    "Seconds short": 2
+  },
+  "source_sha256": "4c5e9db3f9b06f55ea675133332fe4f66b121264ae647c54acb685499dd1cc90",
+  "report_sha256": "f74d014d8eed989f56d7ce42b70dfa4eab05ad77e35841c9958b0a27d4c7aa9d"
+}

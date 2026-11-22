@@ -2,6 +2,8 @@
 
 Match a shot list against tagged footage to find the pickups your edit still needs.
 
+**[Open the live demo](https://oguzhanozfe.github.io/cutroom-coverage/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Cutroom Coverage showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/cutroom-coverage) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)
